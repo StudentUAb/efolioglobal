@@ -16,7 +16,7 @@ Efolio Global 2022 - Integração de Heun
 Um barco de 80,0 kg segue a velocidade constante de
 7,00 nós (1 nó = 1,852 km/h) segundo o eixo dos yy quando, no
 instante t = 0, entra numa zona de correntes segundo x que lhe
-imprimem uma força de componente 𝐹 = 200 ⋅ (4𝑡 − 𝑡$), 𝑡 ∈ [0,4] (SI). #
+imprimem uma força de componente F_x=200(4t-t^2), t ϵ [0,4] (SI)
 Calcule a velocidade e rapidez do barco quando sai da zona com corrente horizontal.
 
 Para resolver esse problema, precisamos aplicar a segunda lei de Newton:
