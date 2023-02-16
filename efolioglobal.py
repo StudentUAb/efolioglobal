@@ -12,7 +12,9 @@
 m = 80.0  # massa do barco (kg)
 v0 = 7.0  # velocidade constante (nós)
 vx0 = v0 * 1.852 / 3.600  # velocidade inicial segundo x
-Fx = lambda t: 200 * (4*t - t**2)  # força x
+# Função lambda Fx é definida para calcular a força de arrasto 
+# segundo x em função do tempo t. 
+Fx = lambda t: 200 * (4*t - t**2)  # Função anonima de força x
 
 # Constantes e intervalo de tempo
 h = 1.0  # passo de integração (segundos)
