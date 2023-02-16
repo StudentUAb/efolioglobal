@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img width="600" src="python.jpg" />
+    <img width="600" src="python.png" />
 </h1>
 
 
