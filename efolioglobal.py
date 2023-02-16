@@ -5,7 +5,7 @@
 #   quando sai da zona com corrente horizontal
 # - UAb
 #  Aluno: 2100927 - Ivo Baptista 
-# segund a lei de newton 
+# a lei de newton 
 # F = m * a
 # então deduzimos que a=f/m obtendo a aceleraçao do barco
 
