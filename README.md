@@ -24,7 +24,7 @@ Para resolver esse problema, precisamos aplicar a segunda lei de Newton:
 F = m*a
 
 onde F é a força resultante sobre o barco, m é a massa do barco e a é a aceleração do barco.
-No caso desse problema, temos duas componentes de força atuando sobre o barco: a força da corrente horizontal 𝐹 _x= 200 ⋅ (4𝑡 − 𝑡^2), e a força de arrasto devido à água, que é proporcional à velocidade do barco e é dada por:
+No caso desse problema, temos duas componentes de força atuando sobre o barco: a força da corrente horizontal 𝐹_x= 200 ⋅ (4𝑡 − 𝑡^2), e a força de arrasto devido à água, que é proporcional à velocidade do barco e é dada por:
 
 ------------------
 Aplicando o método de Huen para integrar numericamente a equação do movimento de um barco sujeito a uma força de arrasto variável com o tempo.
